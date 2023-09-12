@@ -1,0 +1,16 @@
+C:\Users\aluno\source\repos\exLista1\exLista1\bin\Debug\exLista1.exe.config
+C:\Users\aluno\source\repos\exLista1\exLista1\bin\Debug\exLista1.exe
+C:\Users\aluno\source\repos\exLista1\exLista1\bin\Debug\exLista1.pdb
+C:\Users\aluno\source\repos\exLista1\exLista1\obj\Debug\exLista1.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\exLista1\exLista1\obj\Debug\exLista1.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\exLista1\exLista1\obj\Debug\exLista1.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\exLista1\exLista1\obj\Debug\exLista1.exe
+C:\Users\aluno\source\repos\exLista1\exLista1\obj\Debug\exLista1.pdb
+C:\Users\aluno\Downloads\ADS-ED2-20230821-main\exLista1\exLista1\bin\Debug\exLista1.exe.config
+C:\Users\aluno\Downloads\ADS-ED2-20230821-main\exLista1\exLista1\bin\Debug\exLista1.exe
+C:\Users\aluno\Downloads\ADS-ED2-20230821-main\exLista1\exLista1\bin\Debug\exLista1.pdb
+C:\Users\aluno\Downloads\ADS-ED2-20230821-main\exLista1\exLista1\obj\Debug\exLista1.csproj.AssemblyReference.cache
+C:\Users\aluno\Downloads\ADS-ED2-20230821-main\exLista1\exLista1\obj\Debug\exLista1.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Downloads\ADS-ED2-20230821-main\exLista1\exLista1\obj\Debug\exLista1.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\ADS-ED2-20230821-main\exLista1\exLista1\obj\Debug\exLista1.exe
+C:\Users\aluno\Downloads\ADS-ED2-20230821-main\exLista1\exLista1\obj\Debug\exLista1.pdb

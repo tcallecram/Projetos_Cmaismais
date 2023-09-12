@@ -1,0 +1,8 @@
+C:\Users\aluno\source\repos\exLista2\exLista2\bin\Debug\exLista2.exe.config
+C:\Users\aluno\source\repos\exLista2\exLista2\bin\Debug\exLista2.exe
+C:\Users\aluno\source\repos\exLista2\exLista2\bin\Debug\exLista2.pdb
+C:\Users\aluno\source\repos\exLista2\exLista2\obj\Debug\exLista2.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\exLista2\exLista2\obj\Debug\exLista2.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\exLista2\exLista2\obj\Debug\exLista2.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\exLista2\exLista2\obj\Debug\exLista2.exe
+C:\Users\aluno\source\repos\exLista2\exLista2\obj\Debug\exLista2.pdb
