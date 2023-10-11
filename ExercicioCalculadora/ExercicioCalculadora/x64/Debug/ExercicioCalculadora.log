@@ -1,0 +1,13 @@
+﻿  Matematica.cpp
+M:\apagar\teste\ExercicioCalculadora\ExercicioCalculadora\Matematica.cpp(8,13): error C2144: erro de sintaxe: 'char' deve ser precedido por ')'
+M:\apagar\teste\ExercicioCalculadora\ExercicioCalculadora\Matematica.cpp(8,2): error C2660: 'ReceberNum': função não recebe 0 argumentos
+M:\apagar\teste\ExercicioCalculadora\ExercicioCalculadora\Matematica.h(3,5): message : consulte a declaração de 'ReceberNum'
+M:\apagar\teste\ExercicioCalculadora\ExercicioCalculadora\Matematica.cpp(8,2): message : ao tentar corresponder a lista de argumentos '()'
+M:\apagar\teste\ExercicioCalculadora\ExercicioCalculadora\Matematica.cpp(8,13): error C2144: erro de sintaxe: 'char' deve ser precedido por ';'
+M:\apagar\teste\ExercicioCalculadora\ExercicioCalculadora\Matematica.cpp(8,27): error C2062: tipo 'int' inesperado
+M:\apagar\teste\ExercicioCalculadora\ExercicioCalculadora\Matematica.cpp(8,45): error C2059: erro de sintaxe: ')'
+  ProgramaMatematico.cpp
+M:\apagar\teste\ExercicioCalculadora\ExercicioCalculadora\ProgramaMatematico.cpp(37,23): warning C4834: descartando o valor retornado da função com o atributo 'nodiscard'
+M:\apagar\teste\ExercicioCalculadora\ExercicioCalculadora\ProgramaMatematico.cpp(37,29): warning C4244: 'return': conversão de 'double' para 'int', possível perda de dados
+  Gerando Código...
+M:\apagar\teste\ExercicioCalculadora\ExercicioCalculadora\ProgramaMatematico.cpp(42): warning C4715: 'ReceberNum': nem todos os caminhos de controle retornam um valor
