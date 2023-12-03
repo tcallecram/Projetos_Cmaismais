@@ -1,0 +1,15 @@
+C:\Users\T-GAMER\OneDrive\Faculdade\Estrutura_de_Dados\Segundo Semestre\teste\teste\bin\Debug\net6.0\teste.exe
+C:\Users\T-GAMER\OneDrive\Faculdade\Estrutura_de_Dados\Segundo Semestre\teste\teste\bin\Debug\net6.0\teste.deps.json
+C:\Users\T-GAMER\OneDrive\Faculdade\Estrutura_de_Dados\Segundo Semestre\teste\teste\bin\Debug\net6.0\teste.runtimeconfig.json
+C:\Users\T-GAMER\OneDrive\Faculdade\Estrutura_de_Dados\Segundo Semestre\teste\teste\bin\Debug\net6.0\teste.dll
+C:\Users\T-GAMER\OneDrive\Faculdade\Estrutura_de_Dados\Segundo Semestre\teste\teste\bin\Debug\net6.0\teste.pdb
+C:\Users\T-GAMER\OneDrive\Faculdade\Estrutura_de_Dados\Segundo Semestre\teste\teste\obj\Debug\net6.0\teste.csproj.AssemblyReference.cache
+C:\Users\T-GAMER\OneDrive\Faculdade\Estrutura_de_Dados\Segundo Semestre\teste\teste\obj\Debug\net6.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\OneDrive\Faculdade\Estrutura_de_Dados\Segundo Semestre\teste\teste\obj\Debug\net6.0\teste.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\OneDrive\Faculdade\Estrutura_de_Dados\Segundo Semestre\teste\teste\obj\Debug\net6.0\teste.AssemblyInfo.cs
+C:\Users\T-GAMER\OneDrive\Faculdade\Estrutura_de_Dados\Segundo Semestre\teste\teste\obj\Debug\net6.0\teste.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\OneDrive\Faculdade\Estrutura_de_Dados\Segundo Semestre\teste\teste\obj\Debug\net6.0\teste.dll
+C:\Users\T-GAMER\OneDrive\Faculdade\Estrutura_de_Dados\Segundo Semestre\teste\teste\obj\Debug\net6.0\refint\teste.dll
+C:\Users\T-GAMER\OneDrive\Faculdade\Estrutura_de_Dados\Segundo Semestre\teste\teste\obj\Debug\net6.0\teste.pdb
+C:\Users\T-GAMER\OneDrive\Faculdade\Estrutura_de_Dados\Segundo Semestre\teste\teste\obj\Debug\net6.0\teste.genruntimeconfig.cache
+C:\Users\T-GAMER\OneDrive\Faculdade\Estrutura_de_Dados\Segundo Semestre\teste\teste\obj\Debug\net6.0\ref\teste.dll
